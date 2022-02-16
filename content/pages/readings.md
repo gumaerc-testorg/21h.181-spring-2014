@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c3b2313b-4ec8-e75c-a7e0-3a96a66bd738
 ---
@@ -549,7 +552,7 @@ Excerpts from the following materials relating to Klayman v. Obama (2013):
 *   [Klayman v. Obama Memorandum Opinion: Richard J. Leon, District Judge (2013)](http://www.leagle.com/decision/In%20FDCO%2020140116H90/KLAYMAN%20v.%20OBAMA).
 *   [ACLU v. Clapper (2013)(PDF)](http://www.clearinghouse.net/chDocs/public/NS-NY-0003-0004.pdf).
 *   "[Transcript of President Obama's Jan. 17 Speech on NSA Reforms](http://www.washingtonpost.com/politics/full-text-of-president-obamas-jan-17-speech-on-nsa-reforms/2014/01/17/fa33590a-7f8c-11e3-9556-4a4bf7bcbd84_story.html)," _Washington Post_, January 17, 2014.
-*   Privacy and Civil Liberties Oversight Board. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Report on the Telephone Records Program Conducted under Section 215 of the USA Patriot Act and on the Operations of the Foreign Intelligence Surveillance Court." (PDF)](https://www.pclob.gov/library/215-Report_on_the_Telephone_Records_Program.pdf) January 23, 2014.
+*   Privacy and Civil Liberties Oversight Board. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Report on the Telephone Records Program Conducted under Section 215 of the USA Patriot Act and on the Operations of the Foreign Intelligence Surveillance Court." (PDF)](https://documents.pclob.gov/prod/Documents/OversightReport/ec542143-1079-424a-84b3-acc354698560/215-Report_on_the_Telephone_Records_Program.pdf) January 23, 2014.
 
 Savage, Charlie. "[Obama to Call for End to N. S. A.'s Bulk Data Collection](http://www.nytimes.com/2014/03/25/us/obama-to-seek-nsa-curb-on-call-data.html?_r=0)," _New York Times_, March 24, 2014.
 

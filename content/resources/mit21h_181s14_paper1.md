@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 6d1f0411-e5b7-cd18-2564-1b62ab827d13
 resourcetype: Document
 title: 21H.181S14 Libertarianism in History - Paper 1
 uid: e95e38db-7334-fa6b-58be-3d7dbc5c5a14

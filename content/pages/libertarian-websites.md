@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to a sample of libertarian websites.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Libertarian Websites

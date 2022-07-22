@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, required texts, course format, assignments, and
+  evaluation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 658c4293-a548-0d33-b186-1c1a5ecfeccf
 ---
@@ -28,7 +33,7 @@ There is one text required for this course:
 
 Sandel, Michael J., ed. _Justice: A Reader_. Oxford University Press, 2007. ISBN: 9780195335125. \[Preview with [Google Books](http://books.google.com/books?id=3e_JisWPODoC&pg=PAfrontcover)\]
 
-All other readings can be found in the [Readings]({{< baseurl >}}/pages/readings) section.
+All other readings can be found in the {{% resource_link c3b2313b-4ec8-e75c-a7e0-3a96a66bd738 "Readings" %}} section.
 
 Course Format, Assignments, and Evaluation
 ------------------------------------------
@@ -93,4 +98,4 @@ Class Participation
 
 {{< tableclose >}}
 
-For further detail on the course assignments, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail on the course assignments, please see the {{% resource_link 6d1f0411-e5b7-cd18-2564-1b62ab827d13 "Assignments" %}} section.

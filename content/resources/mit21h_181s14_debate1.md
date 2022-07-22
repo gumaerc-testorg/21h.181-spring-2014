@@ -5,6 +5,7 @@ file: /courses/21h-181-libertarianism-in-history-spring-2014/4ee01fef6eb90d58fe3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21H.181S14 Libertarianism in History - Debate 1
 uid: 4ee01fef-6eb9-0d58-fe35-90bd24187ae0
 ---
 This is a resource file that contains information regarding debate 1.
-

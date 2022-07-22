@@ -5,6 +5,7 @@ file: /courses/21h-181-libertarianism-in-history-spring-2014/e95e38db7334fa6b58b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21H.181S14 Libertarianism in History - Paper 1
 uid: e95e38db-7334-fa6b-58be-3d7dbc5c5a14
 ---
 This is a resource file that contains information regarding paper 1.
-

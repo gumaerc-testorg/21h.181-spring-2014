@@ -373,7 +373,7 @@ Goldsmith, Jack. *The Terror Presidency: Law and Judgment Inside the Bush Admini
 {{< tdclose >}}{{< tdopen >}}
 Obamacare
 {{< tdclose >}}{{< tdopen >}}
-[National Federation of Independent Business v. Sebelius (2012) (PDF)](http://www.supremecourt.gov/opinions/11pdf/11-393c3a2.pdf)
+[National Federation of Independent Business v. Sebelius (2012) (PDF)](https://templatelab.com/nfib-vs-sebelius/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 *The Financial Markets*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}

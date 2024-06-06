@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding response
   3 paper.
 file: /courses/21h-181-libertarianism-in-history-spring-2014/aac989d0c0e1873af3eb653fceb82b9c_MIT21H_181S14_Response3.pdf
+file_size: 212243
 file_type: application/pdf
 learning_resource_types:
 - Assignments

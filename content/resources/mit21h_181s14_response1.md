@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding response
   1 paper.
-file: /courses/21h-181-libertarianism-in-history-spring-2014/312f7e584f5eb3f22d0260a80ebb0f22_MIT21H_181S14_Response1.pdf
+file: /ol-ocw-studio-app/courses/21h-181-libertarianism-in-history-spring-2014/312f7e584f5eb3f22d0260a80ebb0f22_MIT21H_181S14_Response1.pdf
 file_size: 202528
 file_type: application/pdf
 learning_resource_types:

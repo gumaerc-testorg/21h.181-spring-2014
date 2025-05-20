@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding debate 1.
-file: /ol-ocw-studio-app/courses/21h-181-libertarianism-in-history-spring-2014/4ee01fef6eb90d58fe3590bd24187ae0_MIT21H_181S14_Debate1.pdf
+file: /courses/21h-181-libertarianism-in-history-spring-2014/4ee01fef6eb90d58fe3590bd24187ae0_MIT21H_181S14_Debate1.pdf
 file_size: 140538
 file_type: application/pdf
 learning_resource_types:

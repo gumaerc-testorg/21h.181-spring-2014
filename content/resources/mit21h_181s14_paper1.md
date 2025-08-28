@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding paper 1.
-file: /courses/21h-181-libertarianism-in-history-spring-2014/e95e38db7334fa6b58be3d7dbc5c5a14_MIT21H_181S14_Paper1.pdf
+file: /ol-ocw-studio-app/courses/21h-181-libertarianism-in-history-spring-2014/e95e38db7334fa6b58be3d7dbc5c5a14_MIT21H_181S14_Paper1.pdf
 file_size: 215182
 file_type: application/pdf
 learning_resource_types:

@@ -237,7 +237,7 @@ _Freedom of the Spirit: Belief, Conduct, and the First Amendment_
 
 The First Amendment Religion Clauses and "Freedom of Conscience"
 
-_Guest Discussant: [Jack N. Rakove](https://politicalscience.stanford.edu/people/jack-n-rakove), Stanford University_
+_Guest Discussant: {{% resource_link "8258329f-6605-4157-88f8-bfbae9ebea7d" "Jack N. Rakove" %}}, Stanford University_
 
 
 {{< tdclose >}}
@@ -297,7 +297,7 @@ The Creation of the Modern American Civil Liberties Movement
 
 The First Amendment and Free Speech
 
-_Guest Discussant: [Harvey A. Silverglate](http://harveysilverglate.com/)_
+_Guest Discussant: {{% resource_link "19a4b381-8a2b-43da-9590-7f050177ca0a" "Harvey A. Silverglate" %}}_
 
 
 {{< tdclose >}}

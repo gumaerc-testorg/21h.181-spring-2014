@@ -31,7 +31,7 @@ Required Texts
 
 There is one text required for this course:
 
-Sandel, Michael J., ed. _Justice: A Reader_. Oxford University Press, 2007. ISBN: 9780195335125. \[Preview with [Google Books](http://books.google.com/books?id=3e_JisWPODoC&pg=PAfrontcover)\]
+Sandel, Michael J., ed. _Justice: A Reader_. Oxford University Press, 2007. ISBN: 9780195335125. \[Preview with {{% resource_link "43784d45-b1a0-46de-b2f0-d2046413cd1b" "Google Books" %}}\]
 
 All other readings can be found in the {{% resource_link c3b2313b-4ec8-e75c-a7e0-3a96a66bd738 "Readings" %}} section.
 
